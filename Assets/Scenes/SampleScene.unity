@@ -338,7 +338,7 @@ MonoBehaviour:
     values: 
   names: []
   fileName: gamedata.json
-  encryptionCodeWord: whatever
+  encryptionCodeWord: 
 --- !u!4 &1361893067
 Transform:
   m_ObjectHideFlags: 0
