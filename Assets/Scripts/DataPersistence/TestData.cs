@@ -16,6 +16,7 @@ public class TestData : MonoBehaviour
     private SerializableDictionary<string, bool> coinsCollected;
     [SerializeField]
     private List<string> names;
+
     [Header("File Settings")]
     [SerializeField]
     private string fileName= "";
